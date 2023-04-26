@@ -1,12 +1,32 @@
-## Summarise the issue you're currently experiencing:
+---
+name: Bug report
+about: Create an issue for your repo
+title: ''
+labels: ''
+assignees: ''
 
+---
 
-## What is the desired resolution/outcome?
+### Describe the bug
+A clear and concise description of what the bug is.
 
--
--
+### To Reproduce
+Steps to reproduce the behaviour:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## Notes of importance:
+### Expected behaviour
+A clear and concise description of what you expected to happen.
+
+### Screenshots
+If applicable, add screenshots to help explain your problem.
+
+### Additional context
+Add any other context about the problem here.
+
+### Notes of importance:
 
 - **Deadline"**
 - **Forecast Ticket Link:**
