@@ -1,8 +1,8 @@
 ---
 name: Issue / Bug
 about: Create an issue for your repo
-title: ''
-labels: ''
+title: "[BUG] - "
+labels: bug
 assignees: ''
 
 ---
