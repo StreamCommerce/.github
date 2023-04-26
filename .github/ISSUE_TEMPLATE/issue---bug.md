@@ -7,32 +7,30 @@ assignees: ''
 
 ---
 
-### Describe the bug:
+### Describe the issue:
   
-&nbsp;
-&nbsp;
-&nbsp;  
-  
+*Outline what the bug/issue is in as much detail as possible*  
+
+---
 
 ### To Reproduce:
 1.
 2.
 3.
 
-&nbsp;
-&nbsp;
-  
-### Expected behaviour:
+---
 
-&nbsp;
-&nbsp;
-&nbsp;
+### Expected behaviour / deliverables:
+
+*Outline what should be happening so it's clear what the desired outcome is. Be explicit with what deliverables are expected to be provided as part of this issue.*  
+
+---
 
 ### Additional context:
 
-&nbsp;
-&nbsp;
-&nbsp;
+*Provide any additional information that think may be of relevance to this issue*  
+
+---
 
 ### Notes of importance:
 
